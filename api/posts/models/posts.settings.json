@@ -32,6 +32,9 @@
     },
     "big_text": {
       "type": "richtext"
+    },
+    "open": {
+      "type": "boolean"
     }
   }
 }
